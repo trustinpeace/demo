@@ -8,6 +8,6 @@
       "test": "echo \"Testing vulnerability scanner\" && exit 1"
     },
     "dependencies": {
-      "lodash": "4.11.2"
+      "lodash": "4.11.0"
   }
   }
