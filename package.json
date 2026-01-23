@@ -9,6 +9,7 @@
     },
     "dependencies": {
       "lodash": "4.11.0",
-      "jquery": "2.2.4"
+      "jquery": "2.2.4",
+      "mocha" : "7.1.0"
   }
   }
