@@ -1,0 +1,13 @@
+
+{
+    "name": "vulnerability-test",
+    "version": "1.0.0",
+    "description": "A sample project with known vulnerable dependencies for testing security scanners",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Testing vulnerability scanner\" && exit 1"
+    },
+    "dependencies": {
+      "lodash": "4.11.2"
+  }
+  }
