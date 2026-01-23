@@ -8,6 +8,7 @@
       "test": "echo \"Testing vulnerability scanner\" && exit 1"
     },
     "dependencies": {
-      "lodash": "4.11.0"
+      "lodash": "4.11.0",
+      "jquery": "2.2.4"
   }
   }
